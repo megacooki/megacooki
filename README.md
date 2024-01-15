@@ -4,8 +4,7 @@
 
 - 👋 Hi, I’m @megacooki
 - 👀 I’m interested in learning unity and web development
-- 🌱 I’m currently learning unity
-- 💞️ I’m looking to collaborate on my racing game with a few friends
+- 🌱 I’m currently learning unity and python
 
 ## Projects
 
