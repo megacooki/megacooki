@@ -8,7 +8,9 @@
 
 ## Projects
 
-- [Soulscape](https://soulscape.megacookie.repl.co)
+- 🎃 [Soulscape](https://megacooki.github.io/SoulScape/)
+<img style="display: block" src='https://megacooki.github.io/SoulScape/images/background.jpg' width=50% alt="Game preview image">
+
 > SoulScape is a haloween-themed game that I made for the Dresscode Haloween Coding Competition 2023. I made it in the Unity Game Engine and coded it in C#.
 
 <!---
