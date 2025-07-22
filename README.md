@@ -22,7 +22,7 @@ I created KlipLink - A privacy focused bit.ly and linktr.ee alternative. It's bu
 </p>
 
 ### Client Booking Website - travelpaws.uk (no longer active)
-This is a full stack booking website with an admin panel, database and Stripe Payment integration
+This was a live full stack booking website with an admin panel, database and Stripe Payment integration
 <div align="center">
   <img src="https://github.com/user-attachments/assets/de864037-40ce-457a-b750-cd6e0d2a2520" width="30%" style="margin:5px; max-height:200px; object-fit:cover;" />
   <img src="https://github.com/user-attachments/assets/9f3f444b-05aa-4973-a96f-9e2590a499dd" width="30%" style="margin:5px; max-height:200px; object-fit:cover;" />
