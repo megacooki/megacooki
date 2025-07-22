@@ -13,7 +13,7 @@
 ### AI Workout App - Fitivo
 I'm helping create Fitivo, in a team of 2 - It's an AI-powered fitness app thats due to be published to the play store around August 2025
 
-### SaaS App - [Kliplink](klipl.ink)
+### Live SaaS App - [Kliplink](klipl.ink)
 I created KlipLink - A privacy focused bit.ly and linktr.ee alternative. It's built as a LAMP stack app with Stripe to handle payments
 
 <p align="center">
