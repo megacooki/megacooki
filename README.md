@@ -22,8 +22,8 @@
 - Innovation Award | Google Cloud & PA Consulting (14y/o)
 https://www.paconsulting.com/insights/pa-raspberry-pi-awards-2025-creating-a-positive-human-future
 > In a team of 3, I helped create [LifeFlow](https://github.com/pddring/LifeFlow) - a medical technology system designed for care homes and the elderly. LifeFlow enables care staff to monitor residents’ health over time and provides secure, AI-driven insights into changes in their condition to help detect potential issues such as tachycardia. The system can also alert care homes within as little as 1.5 seconds if a resident has a fall. Unlike traditional emergency buttons, which require the resident to be conscious and able to press them, LifeFlow ensures they can still receive prompt assistance even if they are unconscious or unable to reach their button.
-- Tech for Good - Sustainability (Winner) | Digit<all> CODE Awards 2024 (13y/o)
-- Tech for Wellbeing (Highly Commended) | Digit<all> CODE Awards 2024 (13y/o)
+- Tech for Good - Sustainability (Winner) | Digit\<all\> CODE Awards 2024 (13y/o)
+- Tech for Wellbeing (Highly Commended) | Digit\<all\> CODE Awards 2024 (13y/o)
 
 - 3rd Place | Young Coders Competition 2023 (12y/o)  
 https://codingcompetition.org/winners/winners-2022
