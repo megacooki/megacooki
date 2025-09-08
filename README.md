@@ -32,7 +32,7 @@ https://codingcompetition.org/winners/winners-2022
 
 ## Client / Live Projects
 
-### AI Workout App - Fitivo
+### AI Workout App - [Fitivo](https://fitivo.app)
 I'm helping create Fitivo, in a team of 2 - It's an AI-powered fitness app thats due to be published to the play store around August 2025
 
 ### Live SaaS App - [Kliplink](https://klipl.ink)
